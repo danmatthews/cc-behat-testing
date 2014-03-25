@@ -109,6 +109,8 @@ These are essentially *user journeys* with technical assertions thrown in.
 
 ### Running the tests
 
+Green = good!
+
 ![images/testsaregreen.png](images/testsaregreen.png)
 
 
